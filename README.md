@@ -10,3 +10,6 @@ Continuous Integration Tools
 - another example
 
 - Wen did changes
+
+- new change from Thien.
+
