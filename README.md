@@ -9,4 +9,10 @@ Continuous Integration Tools
 
 - another example
 
-- new change from Thien.
+- new change from Thien
+
+- new change from Wen
+
+- new change from Maria
+
+- new change from Hend
